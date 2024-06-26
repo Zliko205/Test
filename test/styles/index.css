@@ -1,0 +1,37 @@
+/*Full page*/
+*{
+background-color: #000000;
+}
+/*Header*/
+#Header{
+color: rgb(8, 128, 234);
+}
+/*Info*/
+#info{
+color: red;
+text-align: right;
+}
+/*Login Form*/
+#loginForm{
+    background-color: grey;
+}
+#nick{
+    text-align: left;
+    background-color: red;
+    color:#000000
+}
+#password{
+background-color: red;
+color: blue;
+justify-content: right;
+text-align: left;
+display: grid;
+grid: auto-flow 100px;
+columns: 2;
+align-items: ;
+}
+/*submit button*/
+#submit{
+    background-color: red;
+    color: #000;
+}
